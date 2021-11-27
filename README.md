@@ -8,23 +8,40 @@ Object detection has been a traditional yet open computer vision research field.
 
 # Visual Comparisons
 
+## Sample Visual Comparison 
+From left to right: the object detection result on blurry image, blurry image restored by Deblur-YOLO, and the groundtruth image. 
+
+<p float="left">
+<p align="middle">
+  <img src="Vis/People_blur.png" width="250" />
+  <img src="Vis/People_DeblurYolo.png" width="250" /> 
+  <img src="Vis/People_Clean.png" width="250" />
+</p>
+
+## Visual Comparison on COCO 2014
+
 # Model Architecture
+![Main Arch](Arch/WorkFlow.pdf)
+
+![Generator](Arch/Model_Generator_.pdf)
+
+![Discriminator](Arch/Discriminator.pdf)
 
 # Prerequisite
-```
-Windows or Linux 
-CUDA 10.0+
-Python 3
-Pytorch 1.0+ 
-torchvision 0.2+
-torchsummary
-opencv-python
-numpy
-albumentations
-scikit-image
-glog
-fire
-```
+
+- Windows or Linux 
+- CUDA 10.0+
+- Python 3
+- Pytorch 1.0+ 
+- torchvision 
+- torchsummary
+- opencv-python
+- numpy
+- albumentations
+- scikit-image
+- glog
+- fire
+
 
 # Dataset
 
@@ -46,7 +63,8 @@ fire
 
 # TODO List
 - [x] Add Dependencies
-- [ ] Upload Model Architecture Figure
+- [x] Upload Model Architecture Figure
+- [x] Upload Visual Comparisons
 - [ ] List important hyperparameters
 - [ ] Upload Training Dataset
 - [ ] Upload Testing Dataset
