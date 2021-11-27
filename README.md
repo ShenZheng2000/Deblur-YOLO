@@ -35,6 +35,7 @@ From top left to bottom right: Clean Image, Blurred Image, DeepDeblur, SRN Deblu
 
 # Model Architecture
 Click the links below to see the model architecture
+
 ![Main Arch](Arch/WorkFlow.pdf)
 
 ![Generator](Arch/Model_Generator_.pdf)
