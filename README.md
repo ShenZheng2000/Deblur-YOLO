@@ -13,9 +13,9 @@ From left to right: the object detection result on blurry image, blurry image re
 
 <p float="left">
 <p align="middle">
-  <img src="Vis/sample/People_blur.png" width="250" />
-  <img src="Vis/sample/People_DeblurYolo.png" width="250" /> 
-  <img src="Vis/sample/People_Clean.png" width="250" />
+  <img src="Vis/sample/People_blur.png" width="300" />
+  <img src="Vis/sample/People_DeblurYolo.png" width="300" /> 
+  <img src="Vis/sample/People_Clean.png" width="300" />
 </p>
 
 ## Visual Comparison on Blurred COCO 2014
@@ -23,14 +23,14 @@ From top left to bottom right: the object detection result on Clean Image, Blurr
 
 <p float="left">
 <p align="middle">
-  <img src="Vis/COCO/COCO_Clean.png" width="200" />
-  <img src="Vis/COCO/COCO_Blur.png" width="200" /> 
-  <img src="Vis/COCO/CoCo_DeepDeblur.png" width="200" />
-  <img src="Vis/COCO/CoCo_SRN.png" width="200" />
-  <img src="Vis/COCO/CoCo_DynamicDeblur.png" width="200" /> 
-  <img src="Vis/COCO/Coco_Inc.png" width="200" />
-  <img src="Vis/COCO/CoCo_mob.png" width="200" /> 
-  <img src="Vis/COCO/CoCo_DeblurYolo.png" width="200" />
+  <img src="Vis/COCO/COCO_Clean.png" width="220" />
+  <img src="Vis/COCO/COCO_Blur.png" width="220" /> 
+  <img src="Vis/COCO/CoCo_DeepDeblur.png" width="220" />
+  <img src="Vis/COCO/CoCo_SRN.png" width="220" />
+  <img src="Vis/COCO/CoCo_DynamicDeblur.png" width="220" /> 
+  <img src="Vis/COCO/Coco_Inc.png" width="220" />
+  <img src="Vis/COCO/CoCo_mob.png" width="220" /> 
+  <img src="Vis/COCO/CoCo_DeblurYolo.png" width="220" />
 </p>
 
 # Model Architecture
@@ -60,9 +60,15 @@ Click the links below to see the model architecture
 
 # Dataset
 
+## Training Dataset
+
+## Testing Dataset
+
 # Training
 
 # Testing
+
+# Hyperparameters
 
 # Citation
 ```
