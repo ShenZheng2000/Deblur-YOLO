@@ -34,6 +34,7 @@ From top left to bottom right: Clean Image, Blurred Image, DeepDeblur, SRN Deblu
 </p>
 
 # Model Architecture
+Click the links below to see the model architecture
 ![Main Arch](Arch/WorkFlow.pdf)
 
 ![Generator](Arch/Model_Generator_.pdf)
@@ -82,7 +83,6 @@ From top left to bottom right: Clean Image, Blurred Image, DeepDeblur, SRN Deblu
 - [ ] Upload Training Dataset
 - [ ] Upload Testing Dataset
 - [ ] Update Code 
-- [ ] Upload Visual Comparisons
 - [ ] Testing on Video
 - [ ] Upload Pretrained Weight 
 - [ ] Finalize readme
