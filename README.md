@@ -23,14 +23,14 @@ From top left to bottom right: Clean Image, Blurred Image, DeepDeblur, SRN Deblu
 
 <p float="left">
 <p align="middle">
-  <img src="Vis/COCO/COCO_Clean.png" width="250" />
-  <img src="Vis/COCO/COCO_Blur.png" width="250" /> 
-  <img src="Vis/COCO/COCO_DeepDeblur.png" width="250" />
-  <img src="Vis/COCO/COCO_SRN.png" width="250" />
-  <img src="Vis/COCO/COCO_DynamicDeblur.png" width="250" /> 
-  <img src="Vis/COCO/COCO_Inc.png" width="250" />
-  <img src="Vis/COCO/COCO_mob.png" width="250" /> 
-  <img src="Vis/COCO/COCO_DeblurYolo.png" width="250" />
+  <img src="Vis/COCO/COCO_Clean.png" width="200" />
+  <img src="Vis/COCO/COCO_Blur.png" width="200" /> 
+  <img src="Vis/COCO/CoCo_DeepDeblur.png" width="200" />
+  <img src="Vis/COCO/CoCo_SRN.png" width="200" />
+  <img src="Vis/COCO/CoCo_DynamicDeblur.png" width="200" /> 
+  <img src="Vis/COCO/CoCo_Inc.png" width="200" />
+  <img src="Vis/COCO/CoCo_mob.png" width="200" /> 
+  <img src="Vis/COCO/CoCo_DeblurYolo.png" width="200" />
 </p>
 
 # Model Architecture
