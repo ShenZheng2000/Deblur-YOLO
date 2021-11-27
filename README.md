@@ -1,7 +1,7 @@
 # Deblur-YOLO
 This is the official Pytorch implementation for our paper:
 
-"Deblur-YOLO: Real-Time Object Detection with Efficient Blind Motion Deblurring"   [[Paper Link](https://ieeexplore.ieee.org/document/9534352)]
+"Deblur-YOLO: Real-Time Object Detection with Efficient Blind Motion Deblurring"   [[IJCNN 2021 Paper Link](https://ieeexplore.ieee.org/document/9534352)]
 
 # Abstract
 Object detection has been a traditional yet open computer vision research field. In intensive studies, object detection models have achieved promising results regarding recognition accuracy and inference speed. However, previous state-of-the-art algorithms fail to operate at blurry images. In this work, we propose Deblur-YOLO, an efficient, YOLO-based and detection-driven approach robust to motion blur photographs. We introduce a generative adversarial network with a dilated feature pyramid generator, a pair of multi-scale discriminators with spectral normalization, and a detection discriminator. We design a new image quality metric called Smooth Peak Signal-to-Noise Ratio (SPSNR) for measuring the smoothness of the reconstructed image. Empirical studies on benchmark datasets demonstrate Deblur-YOLO's superiority. On COCO 2014, Set 5 and Setl4, Deblur-YOLO achieves leading results for parameters, deblurring time, PSNR, SPSNR and SSIM. We also visually display the excellence of our deblurring performance to competing models.
