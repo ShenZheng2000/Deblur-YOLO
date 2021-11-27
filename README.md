@@ -19,7 +19,7 @@ From left to right: the object detection result on blurry image, blurry image re
 </p>
 
 ## Visual Comparison on Blurred COCO 2014
-From top left to bottom right: Clean Image, Blurred Image, DeepDeblur, SRN Deblur, DynamicDeblur, DeblurGANv2(I-R), DeblurGANv2(M), Deblur-YOLO
+From top left to bottom right: the object detection result on Clean Image, Blurred Image, DeepDeblur, SRN Deblur, DynamicDeblur, DeblurGANv2(I-R), DeblurGANv2(M), Deblur-YOLO
 
 <p float="left">
 <p align="middle">
