@@ -13,9 +13,9 @@ From left to right: the object detection result on blurry image, blurry image re
 
 <p float="left">
 <p align="middle">
-  <img src="Vis/sample/People_blur.png" width="300" />
-  <img src="Vis/sample/People_DeblurYolo.png" width="300" /> 
-  <img src="Vis/sample/People_Clean.png" width="300" />
+  <img src="Vis/sample/People_blur.png" width="280" />
+  <img src="Vis/sample/People_DeblurYolo.png" width="280" /> 
+  <img src="Vis/sample/People_Clean.png" width="280" />
 </p>
 
 ## Visual Comparison on Blurred COCO 2014
