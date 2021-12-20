@@ -60,10 +60,6 @@ Click the links below to see the model architecture
 
 # Dataset
 
-## Training Dataset
-
-## Testing Dataset
-
 # Training
 
 # Testing
